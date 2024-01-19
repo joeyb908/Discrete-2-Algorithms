@@ -1,6 +1,8 @@
-# 
+## A simple modular exponentian algorithm
 
+# modular answer value initialization
 p = 1
+
 s = int(input("Enter the integer you will raise: "))
 r = int(input("Enter your exponent: "))
 n = int(input("Enter your modulo: "))
